@@ -1,0 +1,4 @@
+{
+  "repo_path": "./integration-test-repo",
+  "argv": ["echo", "world"]
+}
